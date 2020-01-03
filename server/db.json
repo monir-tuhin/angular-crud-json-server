@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Tony Stark",
+      "email": "tony@mcu.com",
+      "phone": "001-123-4567"
+    },
+    {
+      "id": 2,
+      "name": "Black Widow",
+      "email": "black-widow@mcu.com",
+      "phone": "001-123-4568"
+    },
+    {
+      "name": "Monir Zaman",
+      "email": "monirrrrr@gmail.com",
+      "phone": "01245689-5466",
+      "id": 4
+    }
+  ]
+}
